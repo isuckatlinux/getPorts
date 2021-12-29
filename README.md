@@ -10,6 +10,13 @@ getPorts is a tool that extract the most relevant information about the nmap gre
 
 ## Installation
 Very easy to install.
+
+1.Clone the repo
+```bash
+git clone https://github.com/isuckatlinux/getPorts
+```
+
+2.Install it
 ```bash
 sudo chmod +x install.sh
 sudo ./install.sh
