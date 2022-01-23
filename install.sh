@@ -1,3 +1,3 @@
 #!/bin/bash
-chmod +x getPorts.sh
-sudo cp getPorts.sh /usr/local/bin/getPorts
+chmod +x getPorts.py
+sudo cp getPorts.py /usr/local/bin/getPorts

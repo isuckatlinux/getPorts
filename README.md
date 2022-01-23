@@ -6,6 +6,7 @@ Anyway, I recommend his content if you want to learn cybersecurity.
 
 ## What is getPorts?
 getPorts is a tool that extract the most relevant information about the nmap grepeable format and dump all the ports found on the clipboard
+<br>
 *You can generate a grepeable file with -oG flag*
 
 ## Installation
@@ -14,6 +15,10 @@ Very easy to install.
 1.Clone the repo
 ```bash
 git clone https://github.com/isuckatlinux/getPorts
+```
+2.Install requirements.txt
+```bash
+pip3 install -r requirements.txt
 ```
 
 2.Install it
